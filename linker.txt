@@ -1,0 +1,9 @@
+Before to start running these program in Dev C++ first add these all linker in Dev C++.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+linker: 
+
+-static-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -lwinmm
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-lwinmm is for music
+-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 these for graphic.h library 
